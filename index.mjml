@@ -1,0 +1,222 @@
+<mjml lang="en">
+	<mj-head>
+		<mj-title>
+			New Seaons New Comfort
+		</mj-title>
+		<mj-preview>
+			Come shop our new fall lounge wear collection
+		</mj-preview>
+		<mj-style>
+			
+			u + .emailify .g-screen { background: #000; mix-blend-mode:screen; padding: 0; margin: 0; }
+			u + .emailify .g-diff { background: #000; mix-blend-mode:difference; padding: 0; margin: 0; }
+			u + .emailify span.g-screen { display: inline-block; }
+			u + .emailify span.g-diff { display: inline-block; }
+			
+			body {
+			-webkit-font-smoothing:antialiased;
+			-moz-osx-font-smoothing:grayscale;
+			}
+			
+			a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: none !important;
+			}
+			
+			u + .emailify a {
+			color: inherit !important;
+			text-decoration: none!important;
+			}
+			
+			#MessageViewBody a {
+			color: inherit !important;
+			text-decoration: none!important;
+			}div.gpc { font-size: 0; }
+			
+			@media only screen and (max-width:599px) {
+			.emailify { height:100% !important; margin:0 !important; padding:0 !important; width:100% !important; }
+			td.ico.v > div.il > a.l.m, td.ico.v .mn-label { padding-right: 0!important; padding-bottom: 16px!important; }
+			.fwm img { width: 100%!important; max-width: 100%!important; height: auto!important; }
+			.u .fwm img { max-width: none!important; width: 100%!important; height: auto!important; }
+			.aw img { width: auto!important; margin-left: auto!important; margin-right: auto!important; }
+			.awl img { width: auto!important; margin-right: auto!important; }
+			.awr img { width: auto!important; margin-left: auto!important; }
+			.ah img { height: auto!important; }
+			td.b.nw > table, td.b.nw a { width: auto!important; }
+			td.stk { border:0!important; }
+			td.u { height:auto!important; }
+			br.sb { display: none!important; }
+			.thd-1 .i-thumbnail { display: inline-block!important; height: auto!important; overflow: hidden!important; }
+			.hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+			.hm-1 { display: none!important; max-width: 0!important; max-height: 0!important; overflow: hidden!important; mso-hide: all!important; }
+			.ht-1 { display: table!important; height: auto!important; overflow: visible!important; }
+			.hr-1 { display: table-row!important; height: auto!important; overflow: visible!important; }
+			.hc-1 { display: table-cell!important; height: auto!important; overflow: visible!important; }
+			td.ba > table > tbody > tr > td > a { display: flex!important; justify-content: space-between!important; }
+			td.fw-1.ba > table > tbody > tr > td > a { display: flex!important; justify-content: space-between!important; }
+			td.ba img  { margin: 0!important; display: block!important; }
+			td.b td { background-size: cover!important; }
+			div.r > table > tbody > tr > td { direction: ltr!important; }
+			img { background-color: transparent!important; }
+			
+			div.r.pr-16 > table > tbody > tr > td, div.r.pr-16 > div > table > tbody > tr > td { padding-right:16px!important }
+			div.r.pl-16 > table > tbody > tr > td, div.r.pl-16 > div > table > tbody > tr > td { padding-left:16px!important }
+			td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td > a { display: block!important; width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
+			td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td { width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
+			div.h.pt-32 > table > tbody > tr > td { padding-top:32px!important }
+			div.h.pr-16 > table > tbody > tr > td { padding-right:16px!important }
+			div.h.pb-32 > table > tbody > tr > td { padding-bottom:32px!important }
+			div.h.pl-16 > table > tbody > tr > td { padding-left:16px!important }
+			div.r.pt-0 > table > tbody > tr > td, div.r.pt-0 > div > table > tbody > tr > td { padding-top:0px!important }
+			div.r.pr-0 > table > tbody > tr > td, div.r.pr-0 > div > table > tbody > tr > td { padding-right:0px!important }
+			div.r.pb-0 > table > tbody > tr > td, div.r.pb-0 > div > table > tbody > tr > td { padding-bottom:0px!important }
+			div.r.pl-0 > table > tbody > tr > td, div.r.pl-0 > div > table > tbody > tr > td { padding-left:0px!important }
+			
+			
+			}@media screen yahoo {
+			.hd-1, .ds-1 { mso-hide: all!important; display: none!important; height: 0!important; overflow: hidden!important; }
+			}
+			@media (prefers-color-scheme: light) and (max-width:599px) {
+			.ds-1.hd-1 { display: none!important; height: 0!important; overflow: hidden!important; }
+			}
+			
+			@media (prefers-color-scheme: dark) and (max-width:599px) {
+			.ds-1.hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+			}
+		</mj-style>
+		<mj-html-attributes>
+			<mj-selector path="td.s">
+				<mj-html-attribute name="aria-hidden">
+					true
+				</mj-html-attribute>
+			</mj-selector>
+			<mj-selector path="td.mso-btn-left > table > tbody > tr > td">
+				<mj-html-attribute name="class">
+					bal
+				</mj-html-attribute>
+			</mj-selector>
+		</mj-html-attributes>
+		<mj-attributes>
+			<mj-all font-family="Arial, sans-serif"></mj-all>
+		</mj-attributes>
+		<mj-breakpoint width="599px"></mj-breakpoint>
+		<mj-font href="https://fonts.googleapis.com/css?family=Inter:500,400,700,600" name="Inter"></mj-font>
+		<mj-style inline="inline">
+			body, .emailify { mso-line-height-rule: exactly; mso-hyphenate: none; } .hd-1, .thd-1 .i-thumbnail, .ht-1, .hr-1, .hc-1, .ds-1 { mso-hide: all; display: none; height: 0; overflow: hidden; } .hd-1 *, .ds-1 * { mso-hide: all; } .hd-1, .hd-1 td, .ds-1, .ds-1 td { mso-padding-top-alt:0; mso-padding-bottom-alt:0; } sup, sub { line-height: 0; font-size: 75%; }
+		</mj-style>
+		<mj-raw>
+			
+			<meta name="format-detection" content="telephone=no, date=no, address=no, email=no, url=no">
+			<meta name="x-apple-disable-message-reformatting">
+			<meta name="color-scheme" content="light dark">
+			<meta name="supported-color-schemes" content="light dark">
+			
+			<!--[if gte mso 9]>
+        <style>
+          a:link, span.MsoHyperlink {
+            mso-style-priority: 99;
+            color: inherit;
+            text-decoration: none;
+          }
+          a:visited, span.MsoHyperlinkFollowed {
+            mso-style-priority: 99;
+            color: inherit;
+            text-decoration: none;
+          }
+          li { margin-left: -1em !important }
+          table, td, p, div, span, ul, ol, li, a, h1, h2, h3, h4, h5, h6 {
+            mso-hyphenate: none;
+          }
+          sup, sub { font-size: 100% !important; }
+          .bal { text-align: left !important; }
+          img { background-color: transparent !important; }
+        </style>
+			<![endif]-->
+			
+		</mj-raw>
+	</mj-head>
+	<mj-body background-color="#8b736e" css-class="bg " width="600px">
+		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
+			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
+				<mj-image align="center" alt="Sorella Logo" border-radius="0" css-class="i  " fluid-on-mobile="false" height="auto" href="https://www.google.com" padding="0" src="img/sorella-logo.png" width="120px"></mj-image>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
+			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
+				<mj-text align="center" color="#3a2c29" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="500" line-height="150%" padding="0px">
+					<p style="Margin:0;mso-line-height-alt:48px;font-size:32px;line-height:150%;">New Season New Comfort</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="transparent" css-class=" " padding="0">
+			<mj-column padding="0">
+				<mj-image align="left" alt="Sorella Top Image Two women in lougewear" css-class="r  " fluid-on-mobile="false" height="auto" href="https://www.google.com" padding="0" src="img/hero-image.jpg" width="600px"></mj-image>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="28px 56px 28px 56px" text-align="left">
+			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="488px">
+				<mj-text align="center" color="#3a2c29" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="119%" padding-bottom="8px" padding="0px">
+					<p style="Margin:0;mso-line-height-alt:19px;font-size:16px;line-height:119%;">Our Fall Lounge Collection has landed. Rich textures, warm tones, and the coziest fabrics — designed to carry you from crisp mornings to golden evenings.</p>
+				</mj-text>
+				<mj-spacer css-class="s  m" height="4px" padding-bottom="8px" padding="0"></mj-spacer>
+				<mj-button align="center" background-color="#3a2c29" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', 'Helvetica', sans-serif" href="https://www.google.com" inner-padding="16px 0px 16px 0px" line-height="100%" padding-bottom="0" padding="0" target="_blank" vertical-align="middle"  width="292px">
+					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:700;color:#ffffff;line-height:121%;mso-line-height-alt:17px;">SHOP THE DROP</span>
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-hero background-color="#3a2c29" background-height="84px" background-url="img/brown-bg.jpg" background-width="600px" border-radius="0" css-class="h  pt-32 pr-16 pb-32 pl-16 " height="84px" inner-padding-bottom="0px" inner-padding-left="32px" inner-padding-right="32px" inner-padding-top="0px" mode="fixed-height" padding="32px 32px 0px 32px" vertical-align="top">
+			<mj-text align="center" color="#fffff0" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="600" line-height="122%" padding="0px">
+				<p style="Margin:0;mso-line-height-alt:39px;font-size:32px;line-height:122%;">Fall textures, Timeless comfort</p>
+			</mj-text>
+		</mj-hero>
+		<mj-section background-color="transparent" css-class=" " padding="0">
+			<mj-column padding="0">
+				<mj-image align="left" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/tc-lounge-set.jpg" width="600px"></mj-image>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="transparent" css-class=" " padding="0">
+			<mj-column padding="0">
+				<mj-image align="left" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/threec-lounge-set.jpg" width="600px"></mj-image>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="transparent" css-class=" " padding="0">
+			<mj-column padding="0">
+				<mj-image align="left" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/bottom-set-img.jpg" width="600px"></mj-image>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="24px 16px 48px 16px" text-align="left">
+			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
+				<mj-text align="center" color="#3a2c29" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="20px" font-weight="600" line-height="120%" padding-bottom="8px" padding="0px">
+					<p style="Margin:0;mso-line-height-alt:24px;font-size:20px;line-height:120%;">Find your fall favorite today before it sells out</p>
+				</mj-text>
+				<mj-spacer css-class="s  m" height="4px" padding-bottom="8px" padding="0"></mj-spacer>
+				<mj-button align="center" background-color="#3a2c29" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', 'Helvetica', sans-serif" href="https://www.google.com" inner-padding="15px 0px 15px 0px" line-height="100%" padding-bottom="0" padding="0" target="_blank" vertical-align="middle" width="568px">
+					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:600;text-transform:uppercase;color:#fffff0;line-height:121%;letter-spacing:0.28px;mso-line-height-alt:17px;">go get the new drop</span>
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#fffffe" border="none" css-class="r  pt-0 pr-0 pb-0 pl-0 " padding="0" text-align="left">
+			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="600px">
+				<mj-image align="center" alt="" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" height="auto" padding="0" src="img/footer-img.jpg" width="600px"></mj-image>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#fffffe" border="none" css-class="r  pr-16 pl-16 " padding="43px 16px 43px 16px" text-align="left">
+			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
+				<mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="false" height="auto" href="#" padding-bottom="16px" padding="0" src="img/sorella-logo-footer.png" width="110px"></mj-image>
+				<mj-social align="center" css-class="o  m" inner-padding="0 16px 0 0" padding-bottom="16px" padding="0" >
+					<mj-social-element alt="Instagram" border-radius="0" css-class="e  m" href="##" icon-height="24px" icon-size="24px" src="img/insta-logo.png" vertical-align="middle"></mj-social-element>
+					<mj-social-element alt="Facebook" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/fb-logo.png" vertical-align="middle"></mj-social-element>
+					<mj-social-element alt="X" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/x-logo.png" vertical-align="middle"></mj-social-element>
+					<mj-social-element alt="X" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/tiktok-logo.png" vertical-align="middle"></mj-social-element>
+					<mj-social-element alt="YouTube" border-radius="0" css-class="e  " href="#" icon-height="24px" icon-size="24px" padding-right="0" padding="0" src="img/yt-logo.png" vertical-align="middle"></mj-social-element>
+				</mj-social>
+				<mj-text align="center" color="#666564" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="123%" padding-bottom="16px" padding="0px">
+					<p style="Margin:0;mso-line-height-alt:16px;font-size:13px;line-height:123%;">&copy;Sorella </p>
+				</mj-text>
+				<mj-text align="center" color="#666564" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="123%" padding="0px">
+					<p style="Margin:0;mso-line-height-alt:16px;font-size:13px;line-height:123%;">28 Traveler Ln. Dallas, Texas, USA 115670</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
