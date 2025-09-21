@@ -136,12 +136,12 @@
 		</mj-raw>
 	</mj-head>
 	<mj-body background-color="#8b736e" css-class="bg " width="600px">
-		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
+		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
 				<mj-image align="center" alt="Sorella Logo" border-radius="0" css-class="i  " fluid-on-mobile="false" height="auto" href="https://www.google.com" padding="0" src="img/sorella-logo.png" width="120px"></mj-image>
 			</mj-column>
 		</mj-section>
-		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
+		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
 				<mj-text align="center" color="#3a2c29" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="500" line-height="150%" padding="0px">
 					<p style="Margin:0;mso-line-height-alt:48px;font-size:32px;line-height:150%;">New Season New Comfort</p>
@@ -153,7 +153,7 @@
 				<mj-image align="left" alt="Sorella Top Image Two women in lougewear" css-class="r  " fluid-on-mobile="false" height="auto" href="https://www.google.com" padding="0" src="img/hero-image.jpg" width="600px"></mj-image>
 			</mj-column>
 		</mj-section>
-		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="28px 56px 28px 56px" text-align="left">
+		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="28px 56px 28px 56px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="488px">
 				<mj-text align="center" color="#3a2c29" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="119%" padding-bottom="8px" padding="0px">
 					<p style="Margin:0;mso-line-height-alt:19px;font-size:16px;line-height:119%;">Our Fall Lounge Collection has landed. Rich textures, warm tones, and the coziest fabrics — designed to carry you from crisp mornings to golden evenings.</p>
@@ -165,7 +165,7 @@
 			</mj-column>
 		</mj-section>
 		<mj-hero background-color="#3a2c29" background-height="84px" background-url="img/brown-bg.jpg" background-width="600px" border-radius="0" css-class="h  pt-32 pr-16 pb-32 pl-16 " height="84px" inner-padding-bottom="0px" inner-padding-left="32px" inner-padding-right="32px" inner-padding-top="0px" mode="fixed-height" padding="32px 32px 0px 32px" vertical-align="top">
-			<mj-text align="center" color="#fffff0" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="600" line-height="122%" padding="0px">
+			<mj-text align="center" color="#FFFFFC" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="600" line-height="122%" padding="0px">
 				<p style="Margin:0;mso-line-height-alt:39px;font-size:32px;line-height:122%;">Fall textures, Timeless comfort</p>
 			</mj-text>
 		</mj-hero>
@@ -184,14 +184,14 @@
 				<mj-image align="left" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/bottom-set-img.jpg" width="600px"></mj-image>
 			</mj-column>
 		</mj-section>
-		<mj-section background-color="#fffff0" border="none" css-class="r  pr-16 pl-16 " padding="24px 16px 48px 16px" text-align="left">
+		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="24px 16px 48px 16px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
 				<mj-text align="center" color="#3a2c29" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="20px" font-weight="600" line-height="120%" padding-bottom="8px" padding="0px">
 					<p style="Margin:0;mso-line-height-alt:24px;font-size:20px;line-height:120%;">Find your fall favorite today before it sells out</p>
 				</mj-text>
 				<mj-spacer css-class="s  m" height="4px" padding-bottom="8px" padding="0"></mj-spacer>
 				<mj-button align="center" background-color="#3a2c29" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', 'Helvetica', sans-serif" href="https://www.google.com" inner-padding="15px 0px 15px 0px" line-height="100%" padding-bottom="0" padding="0" target="_blank" vertical-align="middle" width="568px">
-					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:600;text-transform:uppercase;color:#fffff0;line-height:121%;letter-spacing:0.28px;mso-line-height-alt:17px;">go get the new drop</span>
+					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:600;text-transform:uppercase;color:#FFFFFC;line-height:121%;letter-spacing:0.28px;mso-line-height-alt:17px;">go get the new drop</span>
 				</mj-button>
 			</mj-column>
 		</mj-section>
