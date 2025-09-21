@@ -5,6 +5,28 @@
 		</mj-title>
 		<mj-preview>
 			Come shop our new fall lounge wear collection
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+			&shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy;
+			&shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy;
+			&shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy;
+			&shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy;
+			&shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy;
+			&nbsp;
 		</mj-preview>
 		<mj-style>
 			
@@ -61,12 +83,16 @@
 			
 			div.r.pr-16 > table > tbody > tr > td, div.r.pr-16 > div > table > tbody > tr > td { padding-right:16px!important }
 			div.r.pl-16 > table > tbody > tr > td, div.r.pl-16 > div > table > tbody > tr > td { padding-left:16px!important }
+			div.r.pr-38 > table > tbody > tr > td, div.r.pr-38 > div > table > tbody > tr > td { padding-right:38px!important }
+			div.r.pl-28 > table > tbody > tr > td, div.r.pl-28 > div > table > tbody > tr > td { padding-left:28px!important }
 			td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td > a { display: block!important; width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
 			td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td { width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
 			div.h.pt-32 > table > tbody > tr > td { padding-top:32px!important }
 			div.h.pr-16 > table > tbody > tr > td { padding-right:16px!important }
 			div.h.pb-32 > table > tbody > tr > td { padding-bottom:32px!important }
 			div.h.pl-16 > table > tbody > tr > td { padding-left:16px!important }
+			td.x.pr-20 { padding-right:20px!important; }
+			td.x.pl-20 { padding-left:20px!important; }
 			div.r.pt-0 > table > tbody > tr > td, div.r.pt-0 > div > table > tbody > tr > td { padding-top:0px!important }
 			div.r.pr-0 > table > tbody > tr > td, div.r.pr-0 > div > table > tbody > tr > td { padding-right:0px!important }
 			div.r.pb-0 > table > tbody > tr > td, div.r.pb-0 > div > table > tbody > tr > td { padding-bottom:0px!important }
@@ -136,62 +162,64 @@
 		</mj-raw>
 	</mj-head>
 	<mj-body background-color="#8b736e" css-class="bg " width="600px">
-		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
+		<mj-section background-color="#fffffc" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
 				<mj-image align="center" alt="Sorella Logo" border-radius="0" css-class="i  " fluid-on-mobile="false" height="auto" href="https://www.google.com" padding="0" src="img/sorella-logo.png" width="120px"></mj-image>
 			</mj-column>
 		</mj-section>
-		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
-			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
-				<mj-text align="center" color="#3a2c29" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="500" line-height="150%" padding="0px">
-					<p style="Margin:0;mso-line-height-alt:48px;font-size:32px;line-height:150%;">New Season New Comfort</p>
-				</mj-text>
-			</mj-column>
-		</mj-section>
 		<mj-section background-color="transparent" css-class=" " padding="0">
 			<mj-column padding="0">
-				<mj-image align="left" alt="Sorella Top Image Two women in lougewear" css-class="r  " fluid-on-mobile="false" height="auto" href="https://www.google.com" padding="0" src="img/hero-image.jpg" width="600px"></mj-image>
+				<mj-image align="left" alt="2 Women standing taking an image in lounge wear" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/hero-image-new.jpg" width="600px"></mj-image>
 			</mj-column>
 		</mj-section>
-		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="28px 56px 28px 56px" text-align="left">
+		<mj-section background-color="#fffffc" border="none" css-class="r  pr-38 pl-28 " padding="16px 16px 0px 16px" text-align="left">
+			<mj-group css-class="gpc" direction="ltr" width="100%">
+				<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="100%">
+					<mj-text align="center" color="#3a2c29" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="500" line-height="150%" padding="0px">
+						<p style="Margin:0;mso-line-height-alt:48px;font-size:32px;line-height:150%;">New Season New Comfort</p>
+					</mj-text>
+				</mj-column>
+			</mj-group>
+		</mj-section>
+		<mj-section background-color="#fffffc" border="none" css-class="r  pr-16 pl-16 " padding="8px 56px 28px 56px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="488px">
 				<mj-text align="center" color="#3a2c29" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="119%" padding-bottom="8px" padding="0px">
-					<p style="Margin:0;mso-line-height-alt:19px;font-size:16px;line-height:119%;">Our Fall Lounge Collection has landed. Rich textures, warm tones, and the coziest fabrics — designed to carry you from crisp mornings to golden evenings.</p>
+					<p style="Margin:0;mso-line-height-alt:19px;font-size:16px;line-height:119%;">Our Fall Lounge Collection has landed. Rich textures, warm tones, and the coziest fabrics designed to carry you from crisp mornings to golden evenings.</p>
 				</mj-text>
 				<mj-spacer css-class="s  m" height="4px" padding-bottom="8px" padding="0"></mj-spacer>
-				<mj-button align="center" background-color="#3a2c29" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', 'Helvetica', sans-serif" href="https://www.google.com" inner-padding="16px 0px 16px 0px" line-height="100%" padding-bottom="0" padding="0" target="_blank" vertical-align="middle"  width="292px">
-					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:700;color:#ffffff;line-height:121%;mso-line-height-alt:17px;">SHOP THE DROP</span>
+				<mj-button align="center" background-color="#3a2c29" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', 'Helvetica', sans-serif" href="#" inner-padding="16px 0px 16px 0px" line-height="100%" padding-bottom="0" padding="0" target="_blank" vertical-align="middle" vml-height="49px" width="292px">
+					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:700;color:#fffffc;line-height:121%;mso-line-height-alt:17px;">SHOP THE DROP</span>
 				</mj-button>
 			</mj-column>
 		</mj-section>
-		<mj-hero background-color="#3a2c29" background-height="84px" background-url="img/brown-bg.jpg" background-width="600px" border-radius="0" css-class="h  pt-32 pr-16 pb-32 pl-16 " height="84px" inner-padding-bottom="0px" inner-padding-left="32px" inner-padding-right="32px" inner-padding-top="0px" mode="fixed-height" padding="32px 32px 0px 32px" vertical-align="top">
-			<mj-text align="center" color="#FFFFFC" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="600" line-height="122%" padding="0px">
+		<mj-hero background-color="#3a2c29" background-height="84px"  background-width="600px" border-radius="0" css-class="h  pt-32 pr-16 pb-32 pl-16 " height="84px" inner-padding-bottom="0px" inner-padding-left="32px" inner-padding-right="32px" inner-padding-top="0px" mode="fixed-height" padding="32px 32px 0px 32px" vertical-align="top">
+			<mj-text align="center" color="#fffffc" css-class="x  pr-20 pl-20 " font-family="'Inter', Helvetica, sans-serif" font-size="32px" font-weight="600" line-height="122%" padding="0px">
 				<p style="Margin:0;mso-line-height-alt:39px;font-size:32px;line-height:122%;">Fall textures, Timeless comfort</p>
 			</mj-text>
 		</mj-hero>
 		<mj-section background-color="transparent" css-class=" " padding="0">
 			<mj-column padding="0">
-				<mj-image align="left" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/tc-lounge-set.jpg" width="600px"></mj-image>
+				<mj-image align="left" alt="2 Column of Women in Lounge Wear" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/tc-lounge-set.jpg" width="600px"></mj-image>
 			</mj-column>
 		</mj-section>
 		<mj-section background-color="transparent" css-class=" " padding="0">
 			<mj-column padding="0">
-				<mj-image align="left" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/threec-lounge-set.jpg" width="600px"></mj-image>
+				<mj-image align="left" alt="3 Column of Women in Lounge Wear" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/threec-lounge-set.jpg" width="600px"></mj-image>
 			</mj-column>
 		</mj-section>
 		<mj-section background-color="transparent" css-class=" " padding="0">
 			<mj-column padding="0">
-				<mj-image align="left" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/bottom-set-img.jpg" width="600px"></mj-image>
+				<mj-image align="left" alt="1 Column of Woman in Lounge Wear Set" css-class="r  " fluid-on-mobile="false" height="auto" href="#" padding="0" src="img/bottom-set-img.jpg" width="600px"></mj-image>
 			</mj-column>
 		</mj-section>
-		<mj-section background-color="#FFFFFC" border="none" css-class="r  pr-16 pl-16 " padding="24px 16px 48px 16px" text-align="left">
+		<mj-section background-color="#fffffc" border="none" css-class="r  pr-16 pl-16 " padding="24px 16px 48px 16px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
-				<mj-text align="center" color="#3a2c29" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="20px" font-weight="600" line-height="120%" padding-bottom="8px" padding="0px">
+				<mj-text align="center" color="#3a2c29" css-class="x  pr-20 pl-20 m" font-family="'Inter', Helvetica, sans-serif" font-size="20px" font-weight="600" line-height="120%" padding-bottom="8px" padding="0px">
 					<p style="Margin:0;mso-line-height-alt:24px;font-size:20px;line-height:120%;">Find your fall favorite today before it sells out</p>
 				</mj-text>
 				<mj-spacer css-class="s  m" height="4px" padding-bottom="8px" padding="0"></mj-spacer>
-				<mj-button align="center" background-color="#3a2c29" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', 'Helvetica', sans-serif" href="https://www.google.com" inner-padding="15px 0px 15px 0px" line-height="100%" padding-bottom="0" padding="0" target="_blank" vertical-align="middle" width="568px">
-					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:600;text-transform:uppercase;color:#FFFFFC;line-height:121%;letter-spacing:0.28px;mso-line-height-alt:17px;">go get the new drop</span>
+				<mj-button align="center" background-color="#3a2c29" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', 'Helvetica', sans-serif" href="#" inner-padding="15px 0px 15px 0px" line-height="100%" padding-bottom="0" padding="0" target="_blank" vertical-align="middle" vml-height="47px" width="568px">
+					<span style="font-size:14px;font-family:'Inter', 'Helvetica', sans-serif;font-weight:600;text-transform:uppercase;color:#fffffc;line-height:121%;letter-spacing:0.28px;mso-line-height-alt:17px;">go get the new drop</span>
 				</mj-button>
 			</mj-column>
 		</mj-section>
@@ -200,21 +228,21 @@
 				<mj-image align="center" alt="" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" height="auto" padding="0" src="img/footer-img.jpg" width="600px"></mj-image>
 			</mj-column>
 		</mj-section>
-		<mj-section background-color="#fffffe" border="none" css-class="r  pr-16 pl-16 " padding="43px 16px 43px 16px" text-align="left">
+		<mj-section background-color="#fffffc" border="none" css-class="r  pr-16 pl-16 " padding="41px 16px 41px 16px" text-align="left">
 			<mj-column background-color="transparent" border="none" css-class="  c" vertical-align="middle" width="568px">
-				<mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="false" height="auto" href="#" padding-bottom="16px" padding="0" src="img/sorella-logo-footer.png" width="110px"></mj-image>
+				<mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="false" height="auto" href="#" padding-bottom="16px" padding="0" src="img/sorella-logo.png" width="110px"></mj-image>
 				<mj-social align="center" css-class="o  m" inner-padding="0 16px 0 0" padding-bottom="16px" padding="0" >
-					<mj-social-element alt="Instagram" border-radius="0" css-class="e  m" href="##" icon-height="24px" icon-size="24px" src="img/insta-logo.png" vertical-align="middle"></mj-social-element>
+					<mj-social-element alt="Instagram" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/insta-logo.png" vertical-align="middle"></mj-social-element>
 					<mj-social-element alt="Facebook" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/fb-logo.png" vertical-align="middle"></mj-social-element>
 					<mj-social-element alt="X" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/x-logo.png" vertical-align="middle"></mj-social-element>
-					<mj-social-element alt="X" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/tiktok-logo.png" vertical-align="middle"></mj-social-element>
+					<mj-social-element alt="TikTok" border-radius="0" css-class="e  m" href="#" icon-height="24px" icon-size="24px" src="img/tiktok-logo.png" vertical-align="middle"></mj-social-element>
 					<mj-social-element alt="YouTube" border-radius="0" css-class="e  " href="#" icon-height="24px" icon-size="24px" padding-right="0" padding="0" src="img/yt-logo.png" vertical-align="middle"></mj-social-element>
 				</mj-social>
 				<mj-text align="center" color="#666564" css-class="x  m" font-family="'Inter', Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="123%" padding-bottom="16px" padding="0px">
 					<p style="Margin:0;mso-line-height-alt:16px;font-size:13px;line-height:123%;">&copy;Sorella </p>
 				</mj-text>
 				<mj-text align="center" color="#666564" css-class="x  " font-family="'Inter', Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="123%" padding="0px">
-					<p style="Margin:0;mso-line-height-alt:16px;font-size:13px;line-height:123%;">28 Traveler Ln. Dallas, Texas, USA 115670</p>
+					<p style="Margin:0;mso-line-height-alt:16px;font-size:13px;line-height:123%;">&copy;Sorella  28 Traveler Ln. Dallas, Texas, USA 115670</p>
 				</mj-text>
 			</mj-column>
 		</mj-section>
